@@ -1,2 +1,2 @@
 # HNG-Internship
-Contains all documents for Hbg Internship exercise
+Contains all documents for HNG Internship exercise
